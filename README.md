@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Responsividade" src="./image/imageReadme.png" width="50%">
+  <img alt="Responsividade" src="./image/imageReadme.png" width="100%">
 </p>
 
 ## 🛠 Tecnologias
